@@ -1,2 +1,3 @@
 # hello-world
 first depository set up
+I am a self taught person who has played with many language since the early days of PC's. So you see i have some years under my belt and leaarning is harder , remembering is even harder and technology moves so fast. Anyway, I do a little web site creating for some local churches (no fees involved) but like to make them look good aand be flexible so that means using Wordpress. Some of the plugins refer to GitHub so I thought I should leatrn a little about it to see if it could provide anything for me or I could offer somethin to simple to be considered by the PROs normally looking aat much more advanced thisng. Hence., here I am.
